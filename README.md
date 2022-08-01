@@ -1,7 +1,8 @@
 # SumoRoboticToy (College Project)
-##A robot that removes all objects from a ring
+## A robot that removes all objects from a ring
 
-###Here You can see what this software does : 
+### Here You can see what this software does :
+
 https://www.youtube.com/shorts/YJgPBfXASk8
 https://www.youtube.com/shorts/d9uUJHC6v_s
 
