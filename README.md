@@ -1,5 +1,5 @@
-# SumoRoboticToy (College Project)
-## A robot that removes all objects from a ring
+## SumoRoboticToy (College Project)
+### A robot that removes all objects from a ring.
 
 ### Here You can see what this software does :
 
@@ -7,7 +7,7 @@ https://www.youtube.com/shorts/YJgPBfXASk8
 
 https://www.youtube.com/shorts/d9uUJHC6v_s
 
-##This software is written for Arduino Uno board
+#### This software is written for Arduino Uno board
 The robot electronic componnents are :
 - Arduino Uno
 - 5 Channel Line Tracking Mode with bumper, TRCR5000
@@ -16,7 +16,7 @@ The robot electronic componnents are :
 - double H-bridge L298N V1
 - 4x 6V DC motors
 
-The software is structured as follow :
+#### The software is structured as follow :
 - Motor : hardware abstraction for 4 motors + H-bridge (allows the developer to go in any direction and at any speed).
 - LineDetector : hardware abstraction for TRCR5000 (allows the developer see if the robot it's hitten and  where is the line if it's under robot.
 - Obstacle Detector : hardware abstaction for servomotor and ultrasonic sensor. Allow developer to see where are the obstacles and how how far are them.
