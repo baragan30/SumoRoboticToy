@@ -1,7 +1,5 @@
 ## SumoRoboticToy (College Project)
-####Sumo Robotic Toy is a robot made by me that remove objects from a ring. The
-robot adjusts its speed and direction, decides in which direction to search for
-objects and checks that it has not left the ring, all at the same time
+#### Sumo Robotic Toy is a robot that remove objects from a ring. The robot adjusts its speed and direction, decides in which direction to search for objects and checks that it has not left the ring, all at the same time
 
 ### Here You can see what this software does :
 
